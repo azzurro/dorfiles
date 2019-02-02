@@ -1,0 +1,50 @@
+URxvt.perl-ext:
+URxvt.perl-ext-common:
+
+URxvt*scrollBar: false
+URxvt*scrollTtyKeypress: true
+URxvt*scrollTtyOutput: false
+URxvt*scrollWithBuffer: false
+URxvt*skipScroll: true
+
+URxvt*font: xft:DejaVu Sans Mono:pixelsize=24
+URxvt*boldFont: xft:DejaVu Sans Mono:pixelsize=24:style=Bold
+URxvt*letterSpace: 0
+
+URxvt*internalBorder: 3
+URxvt*externalBorder: 0
+URxvt*fading: 25
+
+URxvt*background: #030303
+URxvt*foreground: #d2d2d2
+
+URxvt.colorBD:    #cfcfcf
+URxvt.colorUL:    #A0A0A0
+URxvt.colorIT:    #686868
+! URxvt*colorUL: yellow
+! URxvt*underlineColor: yellow
+
+! Black.
+URxvt*color0:     #030303
+URxvt*color8:     #424242
+! Red.
+URxvt*color1:     #AA2828
+URxvt*color9:     #8a3232
+! Green.
+URxvt*color2:     #7b8c58
+URxvt*color10:    #9db270
+! Yellow.
+URxvt*color3:     #b27d12
+URxvt*color11:    #ddb62b
+! Blue.
+URxvt*color4:     #2222BB
+URxvt*color12:    #1e6a9a
+! Magenta.
+URxvt*color5:     #AA00AA
+URxvt*color13:    #FF55FF
+! Cyan.
+URxvt*color6:     #196271
+URxvt*color14:    #197885
+! White.
+URxvt*color7:     #b3b3b3
+URxvt*color15:    #cccccc
